@@ -1,5 +1,6 @@
 [Unit]
 Description=PalWorld Server
+Requires=network-online.target
 After=network-online.target
 
 [Service]
