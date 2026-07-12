@@ -7,6 +7,7 @@ Proxmoxコンテナを前提としているため、バックアップ機能は�
 ## Requirements
 下記の機能が使用できること。
 - bash
+- curl
 - systemd
 - tmux
 
