@@ -3,7 +3,7 @@
 # tmuxでの識別名を指定
 SESSION="palworld"
 # PalServer.shのパスを指定
-SH_FILE_PATH="/home/palworld/Steam/steamapps/common/PalServer/PalServer.sh"
+SH_FILE_PATH="/home/palworld/.steam/steam/steamapps/common/PalServer/PalServer.sh"
 # サーバ終了時の猶予時間を指定します(60秒以上にする場合はserviceファイルも変更が必要)。
 WAIT=30
 # 認証トークンを指定
